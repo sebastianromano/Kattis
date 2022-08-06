@@ -1,10 +1,8 @@
 import java.util.Scanner;
 
 /**
- * The Quality-Adjusted Life-Year (QALY)
- * a way to measure a person's quality of life, including
- * quality (0-1)
- * quantity of life lived
+ * The Quality-Adjusted Life-Year (QALY) a way to measure a person's quality of
+ * life, including quality (0-1) quantity of life lived
  */
 
 public class Qaly {
