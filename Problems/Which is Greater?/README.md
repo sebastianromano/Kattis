@@ -1,4 +1,4 @@
-# Add Two Numbers
+# Which is Greater?
 
 **Problem**
 >Read decription on the Kattis website below

@@ -1,4 +1,4 @@
-# Add Two Numbers
+# Two-sum
 
 **Problem**
 >Read decription on the Kattis website below

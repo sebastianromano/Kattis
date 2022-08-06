@@ -1,4 +1,4 @@
-# Add Two Numbers
+# Take Two Stones
 
 **Problem**
 >Read decription on the Kattis website below

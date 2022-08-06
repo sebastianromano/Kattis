@@ -1,4 +1,4 @@
-# Greetings!
+# Quality-Adjusted Life-Year
 
 **Problem**
 >Read decription on the Kattis website below

@@ -1,6 +1,6 @@
 # Add Two Numbers
 
 **Problem**
->In this problem, your program should read two whole numbers (also called integers) from the input, and print out their sum.
+>Read decription on the Kattis website below
 
 - Link: https://open.kattis.com/problems/addtwonumbers

@@ -1,4 +1,4 @@
-# Add Two Numbers
+# Solving for Carrots
 
 **Problem**
 >Read decription on the Kattis website below
