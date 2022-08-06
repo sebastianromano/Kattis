@@ -1,4 +1,4 @@
-# with inspiration from https://github.com/github/gitignore
+# with inspiration from https://github.com/github/gitignore (Java, MacOS, VSCode)
 
 ## Java
 # Compiled class file
@@ -53,3 +53,17 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+## Visual Studio Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/*.code-snippets
+
+# Local History for Visual Studio Code
+.history/
+
+# Built Visual Studio Code Extensions
+*.vsix
