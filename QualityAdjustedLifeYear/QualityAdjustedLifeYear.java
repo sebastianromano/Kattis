@@ -5,13 +5,13 @@ import java.util.Scanner;
  * life, including quality (0-1) quantity of life lived
  */
 
-public class Qaly {
+public class QualityAdjustedLifeYear {
 
-    public Qaly() {
+    public QualityAdjustedLifeYear() {
     }
 
     public static void main(String[] args) {
-        Qaly newQaly = new Qaly();
+        QualityAdjustedLifeYear newQaly = new QualityAdjustedLifeYear();
         newQaly.getQaly();
     }
 

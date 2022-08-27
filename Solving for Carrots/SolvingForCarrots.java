@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Carrots {
+public class SolvingForCarrots {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String s = sc.nextLine();
