@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+// change method
+
 public class BuildingPyramids {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
