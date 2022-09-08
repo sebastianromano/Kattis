@@ -1,5 +1,5 @@
 # Kattis
-### *Selection of Kattis Problems (open.kattis.com)*
+### *Selection of Kattis Problems*
 
 Each folder contains my submitted solutions in Java to the various [Kattis Problems](https://open.kattis.com/). 
 
